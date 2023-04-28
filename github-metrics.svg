@@ -23,7 +23,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 11 users
+                            Followed by 12 users
                         </div>
                     </section>
                     <section>
@@ -1533,10 +1533,11 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                     </svg>
-                    11 followers
+                    12 followers
                 </h2>
                 <div class="row">
                     <section class="people">
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQcBBggE/8QAKBAAAQMCBQQDAAMAAAAAAAAAAQIDBAURAAYSITEHFEFREyJhQnHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAIDAf/EABwRAAMAAwADAAAAAAAAAAAAAAABAgMRISIxYf/aAAwDAQACEQMRAD8Az2hoEX5GOKTqYWQEk+gPOL7W8lVbLlPhzKjAe7SU0hxt9sXRZYBAPo74F0/L6KvJW2266lxehLbiD9WyT/L+9hfxfE29ewmXT0inB1Sl6XElKvRxLsdalXTxbF2zTkV+DFa7Ca1UnI6dctaFAfFfjcnfg7ci37gExDdLY20/mNm0wuHL6P6t0zqRmSj64TrTcCSyhrs2pCFtJQBbhQ2O3I3wPp3TCvU+k04s1ZdOqj5PexvjDjXx3sgo/SAb/wCYbfT6e8uFGbVp0L1rIt54wV6g1Ryk5Sm1RliO7LjIugug28cgEe8Pc7kbH438M29WaBPydT6VCpRkLju6nZkvT9HXSQEIPgAAbD9OA7GXawuLGek0Wbd5pLqFJYWUqSoXBG3GGl00ae6nzJTea5812GkE9ow78TKtPF0j1hgjpRQ0pCETq4lCBpSkT1gAYbHjUrRPNbquH//Z" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQcGBP/EAC4QAAEDAgUCBAUFAAAAAAAAAAECAwQFEQAGByExEkETI2GhFCIzQoFicbHB4f/EABYBAQEBAAAAAAAAAAAAAAAAAAQCAP/EAB0RAAEFAAMBAAAAAAAAAAAAAAEAAgMEESEiQTH/2gAMAwEAAhEDEQA/AMnqJWF0ejBEdXRJkkoSRygdz744slaZ16s0xp55UeNEkEOEuHzCP2tgPU2Z8VnGJDbsQ0EtWPHUT/oxcMszsysx3WJtPhshLZ8A3O5Fud+N+2CWHnxNrRg/VK6rHn5FrkZmchsxnXCUut7govuPxjcKaCjdPBwBq1HrtQy2iTWYkeM5GfukNE+YLG5sThTLTzlSoECSj5ipoJUf1DY/xi678bhUWGc6FFMydb9alzerlxTqT+dsXXKuZJ+ZKXCfgtuSA210OlL4Qb90LBHpyMQd9R8Hc32XzisaZUSIujQ1eakum6+ldr4PIdbpSq3EhHiM1ezO/VJ8elNursnd8JN0+iL99x7Ye09K0ZYYbP2LUn3wTqjTIsasw3mG+hS21INuLJ4xoNMlk5WbuB9RX9Y0Z6hROO5X/9k=" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABwgGAgX/xAAuEAABAwMBBgUDBQAAAAAAAAABAgMRAAQFBgcIEiExQRMUUVKBIkKScXORwdH/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Ap26uFJcCG/k0F7bNpupNI5fymJt0W1uGg63cvNhwXPuj0gkCOv8AIprV9Uz3oG3pcybWzw1gyhsuoc85xKTMRyA/TrPxQLmhczk8tpLGZLL2Xkck+yHHbc9En1jtI5weYmK17TgcQFDvWa01lG87p3F5VtPAi8t27gI9nGgGPivUCo6TQdvIKHCO3apW3qrqddY+3+xGOQv5Ljn+VW7raXEwoTUbb1Sinaa2kHknHtR+blA/7EHvH2VaeUTMMFv8FrH9UgNW5UgKPImjrdwbC9keDK5Vw+NE/vLpSoP/2Q==" width="28" height="28" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAcABwDASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYHCAIDBP/EADAQAAIBAwIEBAILAAAAAAAAAAEDAgQFEQAGEhMhMQgiQVEHshUjJjJCRGFxdJKx/8QAFwEBAQEBAAAAAAAAAAAAAAAABQQABv/EACkRAAEDAgQDCQAAAAAAAAAAAAECAxEABAUTMUESIWEUIjJRUqGxwfD/2gAMAwEAAhEDEQA/ADNmIl8dpHOQbk4g/wB9NNru1JbW1JqmT42omlS1LLGMYcdAACSfXW2pVSUN3XXqoExq0VHNkwD605yP8x3PvpPZKO3aWn3Aa5M2NBa6nbEqiriHMHBLOc5hj2lmX7aFvn0Y24yYjLBBHUxy/ClTh5UoOExGnWsL/W3Cs+Gl8Na2LVKqEKMmR5bwwTOeOOAAMdcd+um3w+RJ2M/p+eZ8kNKdnux3Pt+4XOVO5i6uojFtK5fHEleBGeQPNgDqcdz7DTZsS5UNusklcqipZScWSXOoCSCQO8PTWZukWHcQnwkjy3mr3L5HYiwdSqfYVx7lTV22F+dbIpbUtq3u5bR0OZH9R6Aagm70lzrLObvWqDaUky4RMADJwcRHbr7anfedRP6QqU9OW0vMx799V1WycmRXKcivP3c9NFYQ9mvPukcydd9SPqm8OaUq3PDG2onarBbXW5e3UUqbbG20AVhcWuDGYPXJAGMnJ9dGvD4ZQ2TVRYSZCvaCSc/hhpcudYym2tcHIEIMQvyEDt5Bo34fT9hn/wA1nyw1XgRzHHFq3Nc1btTZuuH1AfNf/9k=" width="28" height="28" alt="" />
@@ -1960,7 +1961,7 @@ Tanjiro’s journey leads him to the Swordsmith Village, where he reunites with 
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="7.788944723618091 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="8.5678391959799 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1997,12 +1998,12 @@ Tanjiro’s journey leads him to the Swordsmith Village, where he reunites with 
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 1.07m out of 114m users</span>
+                                    <span class="gh">ranked 983k out of 114m users</span>
                                     <div class="value-wrapper">
-                                        <div class="value">11</div>
+                                        <div class="value">12</div>
                                     </div>
                                 </div>
-                                <div class="text">Followed by 11 users</div>
+                                <div class="text">Followed by 12 users</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -2138,7 +2139,7 @@ Tanjiro’s journey leads him to the Swordsmith Village, where he reunites with 
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Apr 2023, 09:13:28 (timezone America/Sao_Paulo) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 28 Apr 2023, 10:09:48 (timezone America/Sao_Paulo) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
