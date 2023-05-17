@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Svg do Metrics](./github-metrics.svg)
+<div align="center">
+   Análista de Software, Pleno Full Stack, Engenheiro DevOps
+  
+  ![Svg do Metrics](./github-metrics.svg)
+</div>
+
+
