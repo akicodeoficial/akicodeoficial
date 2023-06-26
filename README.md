@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-   <h1>Análista de Software, Pleno Full Stack, Engenheiro DevOps</h1>
+   <h1>Analista de Software, Pleno Full Stack, Engenheiro DevOps</h1>
   
   ![Svg do Metrics](./github-metrics.svg)
 </div>
